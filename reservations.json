@@ -1,0 +1,13 @@
+[
+  {
+    "reservationID": 1,
+    "discountType": "NOT_SET",
+    "ticketCount": 3,
+    "ticketsPrices": [
+      140.0,
+      133.0,
+      140.0
+    ],
+    "createdOn": 19446
+  }
+]
